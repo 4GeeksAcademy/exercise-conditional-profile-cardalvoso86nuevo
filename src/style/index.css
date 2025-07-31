@@ -1,5 +1,5 @@
 .filters {
-  background: white;
+  background: palevioletred;
   width: 100%;
 }
 .filters li {
@@ -23,7 +23,7 @@
   width: 300px;
   height: 350px;
   margin: 50px auto;
-  background: #fff;
+  background: pink;
   border-radius: 5px;
   box-shadow: 0 5px 25px rgba(0, 0, 0, 0.1);
 }
